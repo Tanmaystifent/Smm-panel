@@ -1,0 +1,25 @@
+[05-Apr-2023 20:36:31 UTC] PHP Warning:  require_once(/home/royalpa2/quick.royalpanel.in/lib/autoload.php): failed to open stream: No such file or directory in /home/royalpa2/quick.royalpanel.in/index.php on line 33
+[05-Apr-2023 20:36:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/royalpa2/quick.royalpanel.in/lib/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/royalpa2/quick.royalpanel.in/index.php on line 33
+[05-Apr-2023 20:36:35 UTC] PHP Warning:  require_once(/home/royalpa2/quick.royalpanel.in/lib/autoload.php): failed to open stream: No such file or directory in /home/royalpa2/quick.royalpanel.in/index.php on line 33
+[05-Apr-2023 20:36:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/royalpa2/quick.royalpanel.in/lib/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/royalpa2/quick.royalpanel.in/index.php on line 33
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Undefined offset: 1 in /home/royalpan/pt.royalpanel.in/index.php on line 8
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Undefined offset: 1 in /home/royalpan/pt.royalpanel.in/index.php on line 11
+[14-Apr-2023 10:58:29 UTC] PHP Warning:  Use of undefined constant SUBFOLDER - assumed 'SUBFOLDER' (this will throw an Error in a future version of PHP) in /home/royalpan/pt.royalpanel.in/index.php on line 15
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Undefined variable: settings in /home/royalpan/pt.royalpanel.in/index.php on line 24
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/royalpan/pt.royalpanel.in/index.php on line 24
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Undefined index: lang in /home/royalpan/pt.royalpanel.in/index.php on line 26
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/royalpan/pt.royalpanel.in/index.php on line 39
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/royalpan/pt.royalpanel.in/index.php on line 39
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Undefined variable: user in /home/royalpan/pt.royalpanel.in/index.php on line 41
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/royalpan/pt.royalpanel.in/index.php on line 41
+[14-Apr-2023 10:58:29 UTC] PHP Notice:  Undefined variable: conn in /home/royalpan/pt.royalpanel.in/index.php on line 42
+[14-Apr-2023 10:58:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/royalpan/pt.royalpanel.in/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/royalpan/pt.royalpanel.in/index.php on line 42
+[14-Apr-2023 11:00:25 UTC] PHP Warning:  require(/home/royalpan/pt.royalpanel.in/pswlicence/psw.php): failed to open stream: No such file or directory in /home/royalpan/pt.royalpanel.in/index.php on line 2
+[14-Apr-2023 11:00:25 UTC] PHP Warning:  require(/home/royalpan/pt.royalpanel.in/pswlicence/psw.php): failed to open stream: No such file or directory in /home/royalpan/pt.royalpanel.in/index.php on line 2
+[14-Apr-2023 11:00:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/royalpan/pt.royalpanel.in/pswlicence/psw.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/royalpan/pt.royalpanel.in/index.php on line 2
+[14-Apr-2023 11:00:26 UTC] PHP Warning:  require(/home/royalpan/pt.royalpanel.in/pswlicence/psw.php): failed to open stream: No such file or directory in /home/royalpan/pt.royalpanel.in/index.php on line 2
+[14-Apr-2023 11:00:26 UTC] PHP Warning:  require(/home/royalpan/pt.royalpanel.in/pswlicence/psw.php): failed to open stream: No such file or directory in /home/royalpan/pt.royalpanel.in/index.php on line 2
+[14-Apr-2023 11:00:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/royalpan/pt.royalpanel.in/pswlicence/psw.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/royalpan/pt.royalpanel.in/index.php on line 2
